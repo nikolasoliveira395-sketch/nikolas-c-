@@ -1,0 +1,30 @@
+# Arquivos de build
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.sln.iml
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependências
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
